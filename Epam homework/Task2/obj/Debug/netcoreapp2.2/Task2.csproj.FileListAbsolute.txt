@@ -1,0 +1,11 @@
+D:\epam .net\Epam homework\Task2\bin\Debug\netcoreapp2.2\Task2.deps.json
+D:\epam .net\Epam homework\Task2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.json
+D:\epam .net\Epam homework\Task2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.dev.json
+D:\epam .net\Epam homework\Task2\bin\Debug\netcoreapp2.2\Task2.dll
+D:\epam .net\Epam homework\Task2\bin\Debug\netcoreapp2.2\Task2.pdb
+D:\epam .net\Epam homework\Task2\obj\Debug\netcoreapp2.2\Task2.csproj.CoreCompileInputs.cache
+D:\epam .net\Epam homework\Task2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfoInputs.cache
+D:\epam .net\Epam homework\Task2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfo.cs
+D:\epam .net\Epam homework\Task2\obj\Debug\netcoreapp2.2\Task2.dll
+D:\epam .net\Epam homework\Task2\obj\Debug\netcoreapp2.2\Task2.pdb
+D:\epam .net\Epam homework\Task2\obj\Debug\netcoreapp2.2\Task2.csprojAssemblyReference.cache
