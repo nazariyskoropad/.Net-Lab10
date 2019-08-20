@@ -6,15 +6,21 @@ namespace Task1
 {
     class ComplexNumber
     {
+        #region Fields
         private readonly double real;
         private readonly double imaginary;
+        #endregion
+            
+        #region Constructor
         public ComplexNumber(double real, double imaginary)
         {
             this.real = real;
             this.imaginary = imaginary;
         }
+        #endregion
 
-        //TO DO
+        
+        #region Methods    
         public static ComplexNumber operator *(ComplexNumber Complex1, ComplexNumber Complex2)
         {
             return new ComplexNumber(Complex1.real * Complex2.real - Complex1.imaginary * Complex2.imaginary, 
@@ -38,6 +44,7 @@ namespace Task1
             else
                 Console.WriteLine(this.real + " " + this.imaginary + "i"); 
         }
+        #endregion
     }
 }
  
